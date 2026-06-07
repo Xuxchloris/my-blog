@@ -1,9 +1,18 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于
 
-::github{repo="saicaca/fuwari"}
+Hi，我是 XU。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+一个喜欢建造东西的人。写代码、搭系统、把脑子里的想法变成能跑起来的产品——这件事让我着迷。
+
+我相信两件事：**学会建造，学会销售。** 建造是创造价值，销售是传递价值，两者缺一不可。
+
+## 这个博客
+
+Xux Note 是我的个人空间，用来记录技术笔记、项目复盘、阅读心得，以及偶尔的生活碎片。
+
+写博客对我来说不只是记录，更是一种思维训练——把模糊的想法变成清晰的文字，这个过程本身就很有价值。
+
+## 找到我
+
+- GitHub: [Xuxchloris](https://github.com/Xuxchloris)
+- Email： 3057344978@qq.com
