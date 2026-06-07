@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "GitHub",
-			icon: "fa6-brands:github"，
+			icon: "fa6-brands:github",
 			url: "https://github.com/Xuxchloris",
 		},
 	],
