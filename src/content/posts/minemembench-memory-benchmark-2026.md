@@ -30,7 +30,7 @@ graphiti 的适配器其实也写了，但在受控测试下它的 DeepSeek 提�
 
 ## 展示站：不是重跑，是重放
 
-项目做完之后，我发现一个问题：光发一个 README 和一坨数据文件，没人会去看。所以我又花时间做了一个交互式展示站，就是 minemembench.xuxai.top。
+项目做完之后，我发现一个问题：光发一个 README 和一坨数据文件，没人会去看。所以我又花时间做了一个交互式展示站，就是 [minemembench.xuxai.top](https://minemembench.xuxai.top)。
 
 站上的核心是一个重放器：你可以选一个挑战场景，然后看四个记忆系统在同一个 episode 里怎么表现。每一帧显示谁还握着关键事实，逐步推进，最后给出结论。强调一下：这是冻结的、真实的 Formal V1 运行证据的逐步重放，不是重新跑一遍——保证你在网页上看到的就是论文里那组实验。
 
@@ -40,4 +40,4 @@ graphiti 的适配器其实也写了，但在受控测试下它的 DeepSeek 提�
 
 这个项目做下来，我最大的感受是：Agent 记忆的评估难在可复现性，而不是难在跑实验。随便跑一次 demo，谁都能讲个"记忆让 Agent 更聪明"的故事；但要让别人能回放你的每一步、复现你的每个数字，工作量至少翻倍。
 
-MineMemBench 的价值不在"哪个记忆框架赢了"——这个结论样本还太小，不急着下。它的价值在于：如果你想严肃地比较两个记忆系统，这里有一套现成的、控制好变量的、可重放的流程。项目代码在 github.com/Xuxchloris/MineMemBench，展示站在 minemembench.xuxai.top，欢迎去看去 fork。
+MineMemBench 的价值不在"哪个记忆框架赢了"——这个结论样本还太小，不急着下。它的价值在于：如果你想严肃地比较两个记忆系统，这里有一套现成的、控制好变量的、可重放的流程。项目代码在 [github.com/Xuxchloris/MineMemBench](https://github.com/Xuxchloris/MineMemBench)，展示站在 [minemembench.xuxai.top](https://minemembench.xuxai.top)，欢迎去看去 fork。
