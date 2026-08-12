@@ -41,6 +41,11 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
 	links: [
+		{
+			name: "MineMemBench",
+			url: "https://minemembench.xuxai.top",
+			external: true,
+		},
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.About,
@@ -48,11 +53,6 @@ export const navBarConfig: NavBarConfig = {
 			name: "GitHub",
 			url: "https://github.com/Xuxchloris", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
-		},
-		{
-			name: "MineMemBench",
-			url: "https://minemembench.xuxai.top",
-			external: true,
 		},
 	],
 };
